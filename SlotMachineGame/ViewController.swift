@@ -348,6 +348,17 @@ class ViewController: UIViewController,UIPickerViewDataSource,UIPickerViewDelega
     
         
     }
-   
+    
+    @IBAction func stepperBet(_ sender: UIStepper) {
+        let bet = Int(sender.value)
+        playerBet = Int(sender.value)
+        playerBetTxt.text = String(bet)
+    }
+    
+    @IBAction func stepperCredit(_ sender: UIStepper) {
+        let bet = Int(sender.value)
+        playerMoney = Int(sender.value)
+        playeMoneyLbl.text = String(bet)
+    }
 }
 

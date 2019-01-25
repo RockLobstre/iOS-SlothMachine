@@ -142,6 +142,7 @@
 				TargetAttributes = {
 					F5F867861ACE789600565112 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 2BULHRS882;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
@@ -320,7 +321,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 2BULHRS882;
 				INFOPLIST_FILE = "$(SRCROOT)/SlotMachineGame/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -334,7 +335,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 2BULHRS882;
 				INFOPLIST_FILE = "$(SRCROOT)/SlotMachineGame/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
